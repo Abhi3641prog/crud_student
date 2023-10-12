@@ -23,13 +23,12 @@ public class Student {
 	
 	private String name;
 	
-	private String address;
-	// //
+	private String mobile;
 	
 	private String email;
 	
 	private double fee;
 
-	//SBNDHBFDHSDSAJDNSKANDXDSKLCMDSL/KCMDK/MNCXMKNCDSKJ/L
+	private int ages;
 
 }
