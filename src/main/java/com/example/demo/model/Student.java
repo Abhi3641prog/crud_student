@@ -29,6 +29,6 @@ public class Student {
 	
 	private double fee;
 
-	private int age;
+	private int ages;
 
 }
