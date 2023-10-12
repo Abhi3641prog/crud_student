@@ -92,6 +92,7 @@ class CrudStudentApplicationTests {
 	    }
 
 	 @Test
+	 @Order(1)
 	    public void testDeleteStudent() throws Exception {
 	        Mockito.when(studentService.deleteStudentById(1L)).thenReturn(true);
 
