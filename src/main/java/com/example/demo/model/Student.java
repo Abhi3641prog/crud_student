@@ -23,12 +23,17 @@ public class Student {
 	
 	private String name;
 	
+
 	private String mobile;
+  
+	private String address;
+	
+
 	
 	private String email;
 	
 	private double fee;
 
-	//SBNDHBFDHSDSAJDNSKANDXDSKLCMDSL/KCMDK/MNCXMKNCDSKJ/L
+	
 
 }
