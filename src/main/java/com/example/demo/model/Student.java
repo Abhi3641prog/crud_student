@@ -29,6 +29,6 @@ public class Student {
 	
 	private double fee;
 
-	//SBNDHBFDHSDSAJDNSKANDXDSKLCMDSL/KCMDK/MNCXMKNCDSKJ/L
+	private int age;
 
 }
